@@ -1,0 +1,7 @@
+---
+flows:
+- steps:
+  - kind: endpoint
+    uri: trade-insight-buy:?host=localhost
+  - kind: endpoint
+    uri: trade-insight-buy:?host=localhost
