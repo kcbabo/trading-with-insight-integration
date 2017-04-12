@@ -2,6 +2,6 @@
 flows:
 - steps:
   - kind: endpoint
-    uri: trade-insight-buy:?host=localhost
+    uri: trade-insight-buy:?host=testing
   - kind: endpoint
-    uri: trade-insight-buy:?host=localhost
+    uri: day-trade-place:?host=testing
